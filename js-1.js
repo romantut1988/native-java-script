@@ -15,7 +15,7 @@
 
 const cars = [
     {
-        brand: 'bmw',
+        brand: 'Bmw',
         maxSpeed: 220,
     },
     {
